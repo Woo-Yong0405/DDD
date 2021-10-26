@@ -1,0 +1,18 @@
+@import "css/reset.css";
+
+#titleDiv {
+  display: flex;
+  justify-content: center;
+}
+#title {
+  font-size: 50px;
+}
+#table {
+  display: flex;
+  justify-content: center;
+}
+td p {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
